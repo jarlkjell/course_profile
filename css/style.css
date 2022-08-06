@@ -48,7 +48,7 @@ p {
 
 
 .card-container img {
-	border: 1px solid rgba(255,92,92,1);
+	border: 1px solid rgb(237, 103, 14);
 	border-radius: 50%;
 	padding: 7px;
 	height: 150px;
@@ -56,8 +56,8 @@ p {
 }
 
 .icons i {
-	background-color: rgba(255,92,92,1);
-	border: 1px solid rgba(255,92,92,1);
+	background-color: rgb(237, 174, 27);
+	border: 1px solid rgb(237, 103, 14);
 	border-radius: 50%;
 	color: #fff;
 
@@ -84,7 +84,7 @@ p {
 }
 
 .hashtags ul li {
-	border: 1px solid rgba(255,92,92,1)	;
+	border: 1px solid rgb(237, 103, 14)	;
 	border-radius: 2px;
 	display: inline-block;
 	font-size: 12px;
